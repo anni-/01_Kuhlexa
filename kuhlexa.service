@@ -1,0 +1,14 @@
+[Unit]
+Description=Kuhlexa Backend
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu/01_Kuhlexa
+ExecStart=sudo venv/bin/gunicorn -c gunicorn_config.py main:app
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
