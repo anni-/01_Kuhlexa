@@ -36,3 +36,14 @@ Ich als Landwirt:in...
 
 * Keine direkte Abfrage zwischen Markennummer und Kuhname / Halsbandnummer.
 --> Wurde gelöst mittels Mapping Tabelle :-)
+
+## let's get to work
+Impressionen:
+![](pics/p1.jpg)
+User Stories und das Big Picture ausgearbeitet.
+
+![](pics/p2.jpg)
+Unsere REST Requests aufgezeichnet.
+
+![](pics/p3.jpg)
+Hier sind wir etwa nicht am herumsurfen am Handy sondern am sprechen mit unserer Kuhlexa!
