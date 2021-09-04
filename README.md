@@ -35,3 +35,4 @@ Ich als Landwirt:in...
 ## Impediments
 
 * Keine direkte Abfrage zwischen Markennummer und Kuhname / Halsbandnummer.
+--> Wurde gelöst mittels Mapping Tabelle :-)
